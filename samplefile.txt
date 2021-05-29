@@ -1,4 +1,5 @@
-sample file and branch  
+sample file and branch 2
+branch 2 added 
 text 1
 text 2 
 text 3 
